@@ -4,5 +4,5 @@ pub fn reverse(input: &str) -> String {
         res.push(i);
     }
     // println!("{}",res);
-    res;
+    res
 }
